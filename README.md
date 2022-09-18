@@ -28,10 +28,10 @@ By default, the player uses a quadrature oscillator for [IM]DCT routines, and su
   * [RATKID](https://www.facebook.com/ratkidmusic/)
   * [Sefa](https://djsefa.com/)
 
-## Pre-built Demo (Last update: 2022/06/18)
+## Pre-built Demo (Last update: 2022/09/18)
 
 Files:
- * [2022.06.18 release (1.7MiB, 7z compressed)](https://www.mediafire.com/file/15fwqcsgzja1kc3/file)
+ * [2022.09.18 release (1.5MiB, 7z compressed)](https://www.mediafire.com/file/7q49nx9o4oiooia/file)
 
 Featuring:
  * Sefa & Crypton - Lastig (as pre-compiled track)
